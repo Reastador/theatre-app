@@ -1,6 +1,6 @@
 Simple Rest app, what simulate work of thearte. Here you can register user,
 buy ticket to performance and get it to shopping cart and complete order.
-Here is 2 define role: user and admin
+Here is 2 define roles: user and admin
 
 Admin can: add new theatre stages, add new performance, add new performance session, 
 delete performance session, update performance session and find user by email
